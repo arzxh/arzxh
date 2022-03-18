@@ -1,11 +1,7 @@
 <h1 align="center">
     <img src="./img.svg" alt="Sandy Pratama"/>
+Sandy Pratama 仝
 </h1>
-
-<br>
-
-<h1 align="center">Sandy Pratama 仝</h1>
-
 <br>
 
 ```python
