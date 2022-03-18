@@ -94,7 +94,7 @@ int main()
 
 <br>
 
-<h3>Stat:</h3>
+<h3>Stats:</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=arzxh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="arzxh" 
