@@ -18,31 +18,6 @@ if __name__ == "__main__":
   me = Arzxh()
 ```
 
-```c
-#include <stdio.h>
-#include <string.h>
-
-typedef struct Arzxh {
-  char name[20];
-  char waifu[20];
-  int age;
-} Me;
-
-int main()
-{
-  Me Arzx;
-
-  strcpy(Arzx.name, "Sandy Pratama");
-  strcpy(Arzx.waifu, "Shiroko-chan");
-  Arzx.age = 18;
-
-  printf("My name: %s\n", Arzx.name);
-  printf("My waifu: %s\n", Arzx.waifu);
-  printf("My age: %d\n", Arzx.age);
-
-  return 0;
-};
-```
 <br>
 
 <p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arzxh&label=Profile%20views&color=0e75b6&style=flat"
